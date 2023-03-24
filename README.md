@@ -34,7 +34,7 @@ https://chat.openai.com/chat
 
 Version | API | Credit | After-sales Service Period | Retail Price | Wholesale Price
  --- | --- | ---- | ---- | ----- | --- 
-Standard | Supported | $5 | 3 days | $2.18 each | $0.45 each
+Standard | Supported | $5 | 3 days | $2.2 each | $0.45 each
 
 ```
 Note: Wholesale purchase requires a minimum order quantity of 10  
