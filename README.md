@@ -7,10 +7,11 @@ https://chat.openai.com/chat
 ```
 版本 | API | 额度 | 售后 | 零售价 | 批发价 
  --- | --- | ---- | ---- | ----- | --- 
-普通版 | 支持 | 5$ | 3天 | 15/个 | 3元/个
+普通版 | 支持 | 5$ | 3天 | 15/个 | 3 2.5 2
+
 
 ```
-注意：批发需要购买10个以上！  
+注意：购买10个以上3元，50个以上2.5元,100个以上2元。  
 支付：支持支付宝和USDT（TRC20、BEP20、Polygon）付款。
 ```
 **客服联系：**  
@@ -37,7 +38,7 @@ Version | API | Credit | After-sales Service Period | Retail Price | Wholesale P
 Standard | Supported | $5 | 3 days | $2.2 each | $0.45 each
 
 ```
-Note: Wholesale purchase requires a minimum order quantity of 10  
+Note: $0.45 for 10 pieces, $0.36 for 50 pieces, $0.29 for 100 pieces.
 Support payment methods: Alipay and USDT (TRC20, BEP20, Polygon)
 ```
 
